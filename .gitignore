@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.obsidian/cache
+.trash/
+.DS_Store
+.obsidian/
