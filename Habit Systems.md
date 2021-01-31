@@ -4,6 +4,7 @@ date: 2021-01-31
 last_modified_date: 2021-01-31 09:31
 permalink: habit-systems
 ---
+# Habit Systems
 
 Mostly a combination of [Everyday Systems] principles and the [Atomic Habits] books.
 
@@ -18,9 +19,9 @@ Mostly a combination of [Everyday Systems] principles and the [Atomic Habits] bo
 - **Compound reading**: Remember to read stuff that adds something, whoever small. 
 - **An Errand a Day**: Tackle the  personal tasks lists. 
 - **Pleasure reading**: Read what makes me happy. 
-- [No S Diet][nosd]: No snacks, sweets, seconds, except (sometimes) on days that start with "S".
+- **[No S Diet][nosd]**: No snacks, sweets, seconds, except (sometimes) on days that start with "S".
 - **Weekend Luddite**: Avoid my devices on weekends (Breakfast to Dinner)
-- **localhost** pillow: Once the head hits the pillow, no browsing the internet. 
+- **localhost pillow** : Once the head hits the pillow, no browsing the internet. 
 - **DoerEats**: Cook something. 
 - **Motion & Action**: Don't get stuck in planning, execute something. 
 - **Bipedal mobility**: I can get there walking. 
