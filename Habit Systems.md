@@ -1,4 +1,5 @@
 ---
+title: Habit Systems
 date: 2021-01-31
 last_modified_date: 2021-01-31 09:31
 permalink: habit-systems
@@ -6,7 +7,7 @@ permalink: habit-systems
 
 Mostly a combination of [Everyday Systems] principles and the [Atomic Habits] books.
 
-Current list
+## Current List
 
 - **HIIT Man**: Define myself as a High-Intensity Interval Training so I practice it more. 
 - **Zero Coke Zero**: No Coke's or Dr. Peppers during the weekdays. 
@@ -24,6 +25,9 @@ Current list
 - **Motion & Action**: Don't get stuck in planning, execute something. 
 - **Bipedal mobility**: I can get there walking. 
 
+Tracking all this very loosely (relaxed) with [Pixelist - Habit Tracker] app for iOS. 
+
+[Pixelist - Habit Tracker]: https://apps.apple.com/us/app/pixelist-habit-tracker/id1317636216 "‎Pixelist - Habit Tracker on the App Store"
 
 [Atomic Habits]: https://jamesclear.com/atomic-habits "Atomic Habits: Tiny Changes, Remarkable Results by James Clear"
 
