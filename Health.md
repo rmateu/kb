@@ -12,5 +12,5 @@ Also feel there needs to be sub categories for healthy body, and healthy mind. D
 
 For now, health is loosely defined as:
 
-> He took care of his body for the purpose of health—not vanity—and he rarely needed a doctor’s service 
+> He took care of his body for the purpose of health—not vanity—and he rarely needed a doctor’s service  
 ~ Marcus Aurelius, The Meditations
