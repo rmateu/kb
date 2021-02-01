@@ -1,6 +1,6 @@
 ---
 title: Granchild of Test
-parent: Child of Test
+parent: Productivity
 grand_parent: Test
 nav_order: 1
 ---

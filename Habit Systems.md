@@ -2,13 +2,14 @@
 title: Habit Systems
 date: 2021-01-31
 last_modified_date: 2021-01-31 09:31
+parent: Health
 permalink: habit-systems
 ---
 # Habit Systems
 
-Mostly a combination of [Everyday Systems] principles and the [Atomic Habits] books.
+Mostly a combination of [Everyday Systems] principles and the [Atomic Habits] book.
 
-## Current List
+## Going well
 
 - **HIIT Man**: Define myself as a High-Intensity Interval Training so I practice it more. 
 - **Zero Coke Zero**: No Coke's or Dr. Peppers during the weekdays. 
