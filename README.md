@@ -16,7 +16,7 @@ Well, here's the latest category notes:
 	- Hardware
 	- Software
 - Coffee
-- Health
+- [[Health]]
 - Travel
 - Parenthood 
 
