@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ## Hello World
-After months of random paper notes(*motion*), this is my public wiki/knowledge base/digital garde attempt (*action*).
+After months of random paper notes(*motion*), this is my public wiki/knowledge base/digital garden attempt (*action*).
 
 ### What's to come? 
 
@@ -16,7 +16,7 @@ Well, here's the latest category notes:
 	- Hardware
 	- Software
 - Coffee
-- [[Health]]
+- [Health](Health.md)
 - Travel
 - Parenthood 
 
