@@ -1,8 +1,8 @@
 ---
 title: Obsidian Setup
-date:2021-02-09
+date: 2021-02-09
 last_modified_date: 2021-02-10 08:36
-parent: Health
+parent: Setup
 nav_order: 1
 permalink: obsidian
 ---
