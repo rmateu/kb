@@ -5,6 +5,25 @@ date: 2021-02-21
 
 # Coffee Gear
 
+## Brewing
+**Using**
+-  [AeroPress][aero8] daily driver since 2018
+- [AeroPress Go][aero33] travel and *office* version (pre-2020 definition)
+
+**Sometimes Used**
+-  [Clever Coffee Dripper][amaz47] Large (Clear)
+
+**Never Used**
+- Press
+
+[amaz47]: https://www.amazon.com/gp/product/B00EOM5RN0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 "Amazon.com: Clever Coffee Dripper and Filters, Large 18 oz (Black)“
+
+
+[aero33]: https://aeropress.com/product/aeropress-go-travel-coffee-press/ "AeroPress Go Travel Coffee Press | AeroPress"
+
+[aero8]: https://aeropress.com/product/aeropress-coffee-maker/ "AeroPress Coffee Maker | AeroPress"
+
+
 ## Carafe
 
 **Using:**
