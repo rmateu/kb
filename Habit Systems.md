@@ -6,6 +6,7 @@ parent: Health
 nav_order: 1
 permalink: habit-systems
 ---
+
 # Habit Systems
 
 Mostly a combination of [Everyday Systems] principles and the [Atomic Habits] book.
