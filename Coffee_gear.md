@@ -7,21 +7,55 @@ date: 2021-02-21
 
 ## Brewing
 **Using**
--  [AeroPress][aero8] daily driver since 2018
+- [AeroPress][aero8] daily driver since 2018
 - [AeroPress Go][aero33] travel and *office* version (pre-2020 definition)
+- [Capresso Infinity Conical Burr Grinder][amaz95]
+- [Fino Pour Over Coffee Kettle][amaz17]
+
+[amaz17]: https://www.amazon.com/gp/product/B000EVPGSQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 "Amazon.com: Fino Pour Over Coffee Kettle, 4 1/4 Cup, Silver: Coffee Kettle: Kitchen & Dining"
+ 
+
+[amaz95]: https://www.amazon.com/Capresso-560-01-Infinity-Conical-Grinder/dp/B0000AR7SY "Amazon.com: Capresso Infinity Conical Burr Grinder, Black: Kitchen & Dining"
+
 
 **Sometimes Used**
--  [Clever Coffee Dripper][amaz47] Large (Clear)
+- [Clever Coffee Dripper][amaz47] Large (Clear)
+- [Fellow Prismo][amaz64] Aeropress accessory. 
 
-**Never Used**
-- Press
+[amaz64]: https://www.amazon.com/gp/product/B079YBT2LJ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 "Amazon.com: Fellow Prismo, Pressure-Actuated Attachment for AeroPress Coffee Maker with Reusable Filter, Espresso-Style, No-Drip Immersion, and Cold Brew at Home: Kitchen & Dining"
 
-[amaz47]: https://www.amazon.com/gp/product/B00EOM5RN0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 "Amazon.com: Clever Coffee Dripper and Filters, Large 18 oz (Black)“
 
+**Abandoned**
+- [Palmpress][90]
+
+
+[90]: https://palmpress.coffee/ "Palmpress | Palmpress Coffee Press"
+
+
+## Milk Frothers
+**In Use**
+
+- [NanoFoamerTM][subm54]
+
+[subm54]: https://subminimal.com/products/nanofoamer "NanoFoamer | Create velvety microfoamed milk without a steam wand."
+
+- [PowerLix Milk Frother ][amaz76]
+
+**Abandoned**
+- [Ninja Coffee Bar Easy Milk Frother][amaz30]
+
+[amaz30]: https://www.amazon.com/gp/product/B016ULW6T0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1 "Amazon.com: Ninja Coffee Bar Easy Milk Frother with Press Froth Technology: Kitchen & Dining"
+
+[amaz76]: https://www.amazon.com/gp/product/B01BY9RTNQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 "Amazon.com: PowerLix Milk Frother Handheld Battery Operated Electric Foam Maker For Coffee, Latte, Cappuccino, Hot Chocolate, Durable Drink Mixer With Stainless Steel Whisk, Stainless Steel Stand Include (Black): Kitchen & Dining"
+
+
+[amaz47]: https://www.amazon.com/gp/product/B00EOM5RN0/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 [aero33]: https://aeropress.com/product/aeropress-go-travel-coffee-press/ "AeroPress Go Travel Coffee Press | AeroPress"
 
 [aero8]: https://aeropress.com/product/aeropress-coffee-maker/ "AeroPress Coffee Maker | AeroPress"
+
+
 
 
 ## Carafe
@@ -51,3 +85,9 @@ date: 2021-02-21
 
 [ccbb]: https://bluebottlecoffee.com/store/coffee-carafe "Coffee Carafe - Blue Bottle"
 
+
+## Other 
+
+- [Airscape Coffee and Food Storage Canister][amaz56]
+
+[amaz56]: https://www.amazon.com/gp/product/B00167XN14/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1 "Amazon.com: Airscape Coffee and Food Storage Canister - Patented Airtight Lid Preserve Food Freshness with Two Way CO2 Valve, Stainless Steel Food Container, Brushed Steel, Medium 7-Inch Can: Home & Kitchen"
