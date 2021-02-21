@@ -1,6 +1,10 @@
 ---
 title: Coffee Gear
-date: 2021-02-21
+date: 2021-02-21T00:00:00-06:00
+parent: Coffee
+nav_order: 2
+permalink: coffee_gear
+modified: 2021-02-21T17:52:19-06:00
 ---
 
 # Coffee Gear
