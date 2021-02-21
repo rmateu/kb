@@ -8,6 +8,9 @@ date: 2021-02-21
 ## Carafe
 
 **Using:**
+- [Anchor 8oz Glass Measuring Cup][targ80]
+
+[targ80]: https://www.target.com/p/anchor-8oz-glass-measuring-cup/-/A-53337284#lnk=sametab "Anchor 8oz Glass Measuring Cup : Target"
 
 **Purchased:**
 
@@ -18,7 +21,7 @@ date: 2021-02-21
 **Wishlist**
 
 
-1. Kurasu’s[TORCH Coffee Server Pitchii][kura75]
+1. Kurasu’s [TORCH Coffee Server Pitchii][kura75]
 1. Fellow’s [Mighty Small Glass Carafe][fell29]
 1. Blue Bottle’s [Coffee Carafe][ccbb]
 
@@ -27,9 +30,5 @@ date: 2021-02-21
 [kura75]: https://kurasu.kyoto/products/coffee-server-pitchii "TORCH Coffee Server Pitchii - Kurasu"
 
 
-
 [ccbb]: https://bluebottlecoffee.com/store/coffee-carafe "Coffee Carafe - Blue Bottle"
 
-[Blue Bottle carafe][blue94]
-
-[blue94]: https://bluebottlecoffee.com/store/coffee-carafe "Coffee Carafe - Blue Bottle"
