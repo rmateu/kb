@@ -15,8 +15,8 @@ Well, here's the latest category notes:
 - Mac
 	- Hardware
 	- Software
-- Coffee
-- [Health](Health.md)
+- [Coffee](/docs/coffee.md)
+- [Health](/docs/Health.md)
 - Travel
 - Parenthood 
 
