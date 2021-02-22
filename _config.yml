@@ -2,7 +2,7 @@ title: My Knowledge Base
 description: A digital personal knowledgebase garde ;) 
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://tico.mateu.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kb.mateu.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: GFM
 
@@ -47,6 +47,8 @@ heading_anchors: true
 aux_links:
   "Microblog":
     - "https://r.mateu.me"
+  "Blog":
+    - "https://5typos.net"    
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
