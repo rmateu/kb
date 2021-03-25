@@ -40,3 +40,18 @@ After 6 years for trying Cold Brew recipes, this [reddit][redd42] one from a com
 
 
 [redd42]: https://www.reddit.com/r/keto/comments/295hmh/anyone_tried_the_trader_joes_cold_brew_coffee/ "Anyone tried the Trader Joe's Cold Brew Coffee Concentrate?: keto"
+
+
+
+## Pour Over / Drip
+**[AeroPourOver][apo]**
+
+15 gr (medium caurse)
+240ml water
+Stir 
+Let it flow
+Around 1 level  Give it a stir 
+
+It should take 4 to 6 minutes 
+
+[apo]: https://www.youtube.com/watch?v=FfHmh4bGLmw
