@@ -55,7 +55,9 @@ After 6 years for trying Cold Brew recipes, this [reddit][redd42] one from a com
 
 It should take 4 to 6 minutes 
 
-Using the aeropress filter the drip takes too long. Going to test with a regular filter  
+Using the aeropress filter the drip takes too long. Going to test with a regular filter.
+
+This recipe is not working for me. Latest test with regular filter didn't work too great. 
 
 
 [apo]: https://www.youtube.com/watch?v=FfHmh4bGLmw
