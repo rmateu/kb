@@ -44,14 +44,18 @@ After 6 years for trying Cold Brew recipes, this [reddit][redd42] one from a com
 
 
 ## Pour Over / Drip
+
 **[AeroPourOver][apo]**
 
-15 gr (medium caurse)
-240ml water
-Stir 
-Let it flow
-Around 1 level  Give it a stir 
+- 15 gr (medium course)
+- 240ml water
+- Stir 
+- Let it flow
+- Around 1 level, give it a stir. 
 
 It should take 4 to 6 minutes 
+
+Using the aeropress filter the drip takes too long. Going to test with a regular filter  
+
 
 [apo]: https://www.youtube.com/watch?v=FfHmh4bGLmw
