@@ -27,6 +27,7 @@ modified: 2021-02-21T19:59:28-06:00
 
 ---
 
+
 **[Cold Brew Coffee Concentrate][redd42]**
 
 - Buy a french press ($10).
@@ -44,6 +45,20 @@ After 6 years for trying Cold Brew recipes, this [reddit][redd42] one from a com
 
 
 ## Pour Over / Drip
+
+
+### [Clever Dripper by James Hoffman][cd]
+
+- Pour in all 250g of the water
+- Pour in all 15g of the coffee
+- Stir and let it steep for 2 minutes
+- Break the crust with a stir
+- Leave for 30 seconds to settle
+- Place on the cup to release the coffee
+
+
+[cd]: https://coffee-coach.netlify.app/clever-by-james-hoffman/ "Coffee Coach – Clever Dripper by James Hoffman"
+
 
 **[AeroPourOver][apo]**
 
