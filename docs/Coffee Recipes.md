@@ -10,6 +10,26 @@ modified: 2021-02-21T19:59:28-06:00
 
 # Coffee Recipes
 
+## Aeropress Daily Drivers
+
+### James Hoffmann's [Ultimate AeroPress Technique](https://www.youtube.com/watch?v=j6VlT_jUVPc&t=64s)
+- 14g coffee (medium fine, dark roast).
+	- Tried a coarser grind over the weekend and liked it. Medium coarse set will likely be new default. 
+- 200g water @185F (85 to 90 celsius)
+- Add water, aiming to wet all the coffee during pouring
+- Start a timer, and immediately place the piston piece into the top of the brewer, about 1cm in
+	- Wait 2 minutes
+- Holding the brewer and the piston, gently swirl the brewer
+- Wait 30 seconds
+- Press gently all the way
+
+#### [Brew For Two recipe][b42]:
+- 22g coffee 
+- 240g hot water
+- Longer steep time of 4 minutes
+- Add 160g of hot water to the pitcher to dilute to a regular concentration.
+
+[b42]:https://www.youtube.com/watch?v=DlaEwef6MTg&t=18s
 
 ## Cold Brew
 
@@ -73,6 +93,9 @@ It should take 4 to 6 minutes
 Using the aeropress filter the drip takes too long. Going to test with a regular filter.
 
 This recipe is not working for me. Latest test with regular filter didn't work too great. 
+
+
+
 
 
 [apo]: https://www.youtube.com/watch?v=FfHmh4bGLmw
